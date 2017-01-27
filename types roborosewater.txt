@@ -1,0 +1,7 @@
+5 card type
+4 if legendary 
+6 sub type
+8 power
+9 text
+1 name
+3 cost
